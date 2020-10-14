@@ -1,0 +1,14 @@
+h2.intro {
+  font-family:sans-serif;
+  color: rgba(169, 169, 169, 0.24);
+}
+
+p.intro{
+  font-size: 25px;
+  font-family:sans-serif;
+  weight: bold;
+}
+
+img.intro{
+  border: small yellow;
+}
